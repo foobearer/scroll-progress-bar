@@ -1,5 +1,7 @@
 # ScrollProgressBar
 
+![alt text](https://github.com/foobearer/scroll-progress-bar/blob/main/scroll-progress-bar.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
